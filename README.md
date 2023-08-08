@@ -1,20 +1,20 @@
-
 Descritpion Template
-This is Project Porfolio
+This is Demo Project Porfolio Webpage
 
 Common Tag: Person Website, Portfolio Website, Personal Project Porfolio, Demo App, Demonstration App, Showcase Website
 
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>$(Project-NAME{Personal Portfolio})[![View My Profile]
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" />Demo Project Site</a>
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
-![ViewCount](<https://views.whatilearened.today/views/github/$(github_user)/$(repo_address).svg?cache=remove>)
-![GitHub top language](<https://img.shields.io/github/languages/top/$(github_user)/$(repo_address)?style=flat>)
-![GitHub language count](<https://img.shields.io/github/languages/count/$(github_user)/$(repo_address)?style=flat>)
+![ViewCount](https://views.whatilearened.today/views/github/BDFDPortfolio/Demo00_Demo-Project-Home-Page.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/BDFDPortfolio/Demo00_Demo-Project-Home-Page?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/BDFDPortfolio/Demo00_Demo-Project-Home-Page?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
-<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
+
+<!-- <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" /> -->
 
 <div align="center">
-    <img src="static/images/demo.png" alt="Logo" width="400" height="300">
+    <img src="static/images/demo.png" alt="Logo" width="200" height="150">
 </div>
 
 ## About This Portfolio/Project Details
@@ -27,15 +27,12 @@ About This project and the reference link in this repo are for anyone who is int
 
 The Project Page enlisted as follows:
 
-- [x] **P1-**
-- [x] **P2-**
-- [x] **P3-**
+- [x] **P1-** Demo Home Index Page
 
 ## Project Description:
 
 <img height="27" src="https://img.shields.io/badge/test 1 -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
-<img height="27" src="https://img.shields.io/badge/test 2 -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
-<img height="27" src="https://img.shields.io/badge/test 3-Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+
 <br/>
 Description: Here you can add more detail information about this project and describe it in the documentation for more details.
 
@@ -45,15 +42,10 @@ Description: Here you can add more detail information about this project and des
 
 **Libraries:** HTML, CSS, and JavaScript
 
-**Projects:** ABC Project Name  
+**Projects:** Demo Index Page
 
 **Reference:**  
-Demo: <a href="Youtube Link">Demo Website Link</a>  
-Reference:  
-
-- <a href="https://www.kaggle.com/datasets/smokingkrils/avacado-price-prediction?select=Avocado.csv">Orginal Data Source Link</a>
-- <a href="https://www.youtube.com/watch?v=nLw1RNvfElg&list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9">Orginal Video Source Link</a>
-  <br>
+Demo: <a href="https://www.project-name.com/project-link">Demo Website Link</a>
 
 <div align="center">
 
