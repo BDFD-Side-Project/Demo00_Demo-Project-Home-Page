@@ -3,7 +3,7 @@ This is Demo Project Porfolio Webpage
 
 Common Tag: Person Website, Portfolio Website, Personal Project Porfolio, Demo App, Demonstration App, Showcase Website
 
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" />Demo Project Site</a>
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>Demo Project Site
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
 ![ViewCount](https://views.whatilearened.today/views/github/BDFDPortfolio/Demo00_Demo-Project-Home-Page.svg?cache=remove)
