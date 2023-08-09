@@ -21,7 +21,7 @@ Common Tag: Person Website, Portfolio Website, Personal Project Porfolio, Demo A
 
 About This project and the reference link in this repo are for anyone who is interested in working to enter developer world to produce high quality, working style! Check out follow reference link if you think it is interested.
 
-**Project Link:** [Project-NAME](https://www.project-name.com/project-link)
+**Project Link:** [Demo Project Index Page](https://www.bdfddemo.cf/)
 
 ## Project Details
 
@@ -45,7 +45,7 @@ Description: Here you can add more detail information about this project and des
 **Projects:** Demo Index Page
 
 **Reference:**  
-Demo: <a href="https://www.project-name.com/project-link">Demo Website Link</a>
+Demo: <a href="https://www.bdfddemo.cf/">Demo Website Link</a>
 
 <div align="center">
 
